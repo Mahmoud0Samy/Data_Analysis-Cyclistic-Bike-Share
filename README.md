@@ -4,14 +4,14 @@ Welcome to the Cyclistic Bike-Share Data Analysis Project! In this project, we d
 1. [Project Overview](#project-overview)
 2. [Business Task](#business-task)
 3. [Scenario](#scenario)
-4. [Project Workflow](#project-workflow)
+4. [Data](#data)
+5. [Project Workflow](#project-workflow)
    - [Ask](#ask)
    - [Prepare](#prepare)
    - [Process](#process)
    - [Analyze](#analyze)
    - [Share](#share)
-5. [Why This Matters](#why-this-matters)
-6. [Data](#data)
+6. [Why This Matters](#why-this-matters)
 7. [Results](#results)
 ## Project Overview
 This capstone project serves as the culmination of the Google Data Analytics certificate. Its primary objective is to apply the acquired knowledge in a real-world context through a provided scenario, dataset, and business task. The task involves employing the phases covered in the course to address and solve the specified business challenge.
